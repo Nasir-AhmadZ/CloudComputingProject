@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+env/
+.venv/
+venv/
+
+# Ignore model checkpoints
+checkpoints/
+
+# Ignore processed data
+processed/
+
+# Ignore raw dataset
+rawP500data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
