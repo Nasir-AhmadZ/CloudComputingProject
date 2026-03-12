@@ -7,8 +7,6 @@ env/
 .venv/
 venv/
 
-# Ignore model checkpoints
-checkpoints/
 
 # Ignore processed data
 processed/
